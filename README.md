@@ -1,4 +1,4 @@
-# TO-Corner ![github license](https://img.shields.io/badge/license-gpl-3.0)
+# TO-Corner ![github license](https://img.shields.io/badge/license-gpl-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 ## Description 
 
