@@ -16,6 +16,10 @@ This project is to make TO's of esports/fighting games lives easier. Want to rep
 
 ## Languages
 
+* js
+* React.js
+* node.js
+* mongoDB
 
 
 ## Installation
