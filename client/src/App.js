@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Button } from 'react-bootstrap';
 import './App.css';
+import { getTournament } from './utils/getTournament';
 
 function App() {
   return (
@@ -20,7 +21,7 @@ function App() {
           Learn React
         </a>
         <div className="d-grid gap-2">
-        <Button variant="primary" size="lg">
+        <Button onClick= {getTournament()} variant="primary" size="lg">
          Create Tournament Nerd
         </Button>
         <Button variant="secondary" size="lg">
