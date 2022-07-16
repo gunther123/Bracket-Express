@@ -19,9 +19,14 @@ function App() {
         >
           Learn React
         </a>
+        <div className="d-grid gap-2">
         <Button variant="primary" size="lg">
-            Test
-          </Button>
+         Create Tournament Nerd
+        </Button>
+        <Button variant="secondary" size="lg">
+         Get Top 8 Competitors
+        </Button>
+       </div>
       </header>
     </div>
   );
